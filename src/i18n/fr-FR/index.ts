@@ -4,9 +4,9 @@
 export default {
   views: {
     home: {
-      noRadio: "No radio was found",
-      searchWebRadios: "Search a radio...",
-      addCustomWebRadio: "Add a radio...",
+      noRadio: "Aucune radio n'a été trouvée",
+      searchWebRadios: "Chercher une radio...",
+      addCustomWebRadio: "Ajouter une radio...",
     },
   },
   failed: "Action failed",
